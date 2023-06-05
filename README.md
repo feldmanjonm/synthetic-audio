@@ -17,7 +17,7 @@ Email: jonathan.feldman@protonmail.com
 
 call makeSYNTHassignNOTES.m to run the synthesizer
 
-then call an "orchestra file"
+then call a "song file":
 
     scales.m
     pharawei.m
