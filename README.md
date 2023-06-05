@@ -21,7 +21,8 @@ then call an "orchestra file"
     scales.m
     pharawei.m
     chameleon.m
-    BfGroove.m.m
+    blowininthewind.m
+    etc.
 
 call GST.m for a full bandwidth signal analysis
 
