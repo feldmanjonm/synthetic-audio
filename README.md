@@ -8,7 +8,9 @@ A synthesizer, a signal "time-frequency" analyser, and a stereo re-synthesis alg
 % This technology is protected by an MIT license but is free to use and share in the public domain
 %
 
-README.txt
+Author: Jonathan Feldman
+Date released: June 5, 2023
+
 
 call makeSYNTHassignNotes to run the synthesizer
 
@@ -24,3 +26,6 @@ call GST.m for a full bandwidth signal analysis
 Call KST.m to analyse the bandwidth of the ff's of the piano
 
 Call BST.m to analyse the bass frequencies below 27.5 Hz
+
+
+For a stereo resynth, call KST_stereo.m or KST_realstereo.m
