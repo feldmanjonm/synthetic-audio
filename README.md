@@ -14,7 +14,7 @@ Date released: June 5, 2023
 
 call makeSYNTHassignNotes to run the synthesizer
 
-Then call an "orchestra file"
+then call an "orchestra file"
 
     scales.m
     pharawei.m
@@ -23,9 +23,9 @@ Then call an "orchestra file"
 
 call GST.m for a full bandwidth signal analysis
 
-Call KST.m to analyse the bandwidth of the ff's of the piano
+call KST.m to analyse the bandwidth of the ff's of the piano
 
-Call BST.m to analyse the bass frequencies below 27.5 Hz
+call BST.m to analyse the bass frequencies below 27.5 Hz
 
 
 For a stereo resynth, call KST_stereo.m or KST_realstereo.m
