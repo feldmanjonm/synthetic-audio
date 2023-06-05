@@ -14,7 +14,7 @@ Author: Jonathan Feldman
 Date released: June 5, 2023
 
 
-call makeSYNTHassignNotes to run the synthesizer
+call makeSYNTHassignNOTES.m to run the synthesizer
 
 then call an "orchestra file"
 
