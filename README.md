@@ -30,7 +30,5 @@ call GST.m for a full bandwidth signal analysis
 
 call KST.m to analyse the bandwidth of the ff's of the piano
 
-call BST.m to analyse the bass frequencies below 27.5 Hz
-
 
 For a stereo resynth, call KST_stereo.m or KST_realstereo.m
