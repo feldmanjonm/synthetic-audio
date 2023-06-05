@@ -12,6 +12,7 @@ Graduation date: January 2021
 
 Author: Jonathan Feldman
 Date released: June 5, 2023
+Email: jonathan.feldman@protonmail.com
 
 
 call makeSYNTHassignNOTES.m to run the synthesizer
