@@ -22,6 +22,7 @@ then call an "orchestra file"
     pharawei.m
     chameleon.m
     blowininthewind.m
+    african.m
     etc.
 
 call GST.m for a full bandwidth signal analysis
