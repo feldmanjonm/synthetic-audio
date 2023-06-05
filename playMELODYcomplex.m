@@ -4,7 +4,7 @@
 fs = 48000;
 
 %
-% machine performer
+% 
 %
 
 lydian = [ 0 2 4 6 7 9 11 ];
@@ -55,7 +55,7 @@ f = [ p p q p ];
 f = E + f;
 
 %
-% end Machine Performer
+% 
 %
 
 notes = f;
