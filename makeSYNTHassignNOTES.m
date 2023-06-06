@@ -134,8 +134,8 @@ clear S;
 % make rests
 %
 
-rw = zeros(1,slenw);
-rh = zeros(1,slenh);
+% rw = zeros(1,slenw);
+% rh = zeros(1,slenh);
 rq = zeros(1,slenq);
 re = zeros(1,slene);
 rs = zeros(1,slens);
