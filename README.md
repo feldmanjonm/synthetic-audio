@@ -33,3 +33,8 @@ call KST.m to analyse the bandwidth of the ff's of the piano
 
 
 For a stereo resynth, call KST_stereo.m or KST_realstereo.m
+
+
+Note that the standard sample rate for this project is 48 kHz.  Other sample rates should work but have not been thoroughly tested.
+
+
