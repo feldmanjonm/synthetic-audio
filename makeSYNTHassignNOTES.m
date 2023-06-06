@@ -15,7 +15,7 @@ clear all;
 % input sound file
 %
 % chromatic scales are found in _chromatic/
-% percussion sounds are found in _wav/v
+% percussion sounds are found in _wav/
 %
 % chromatic option: piano, epno
 %
