@@ -14,6 +14,7 @@ Author: Jonathan Feldman
 Company: Cosmic Signals
 Date released: June 5, 2023
 Email: jonathan.feldman@protonmail.com
+web site: http://www.jonfeldman.ca
 
 
 call makeSYNTHassignNOTES.m to run the synthesizer
