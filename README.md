@@ -2,8 +2,6 @@
 
 A synthesizer, a signal "time-frequency" analyser, and a stereo re-synthesis algorithm based on my master's thesis work
 
-Graduation date: January 2021
-
 %
 % copyright Cosmic Signals 2023
 %
@@ -12,6 +10,7 @@ Graduation date: January 2021
 
 Author: Jonathan Feldman
 Company: Cosmic Signals
+MIT Graduation date: January 2021
 Date released: June 5, 2023
 Email: jonathan.feldman@protonmail.com
 web site: http://www.jonfeldman.ca
