@@ -7,7 +7,7 @@ Graduation date: January 2021
 %
 % copyright Cosmic Signals 2023
 %
-% This technology is protected by an MIT license and is available for use for non-commercial purposes
+% This technology is available for use for non-commercial purposes
 %
 
 Author: Jonathan Feldman
