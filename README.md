@@ -34,6 +34,6 @@ call KST.m to analyse the bandwidth of the ff's of the piano
 For a stereo resynth, call KST_stereo.m or KST_realstereo.m
 
 
-Note that in order to run this software, Matlab is required along with the signal processing toolbox.  (Octave, which is free, may work but it has not been tested).  Note also that the standard sample rate for this project is 48 kHz.  Other sample rates should work but have not been thoroughly tested.
+Note that in order to run this software, Matlab is required along with the signal processing toolbox.  Note also that the standard sample rate for this project is 48 kHz.  Other sample rates should work but have not been thoroughly tested.
 
 
