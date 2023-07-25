@@ -26,6 +26,9 @@ then call a "song file":
     pharawei.m
     etc.
 
+regarding the mode, use "chromatic" mode with the sound files in _chromatic;
+use "perc" mode for any sound file.  perc mode is intended though for percussive sounds such as a snare drum hit.
+
 call GST.m for a full bandwidth signal analysis
 
 call KST.m to analyse the bandwidth of the ff's of the piano
