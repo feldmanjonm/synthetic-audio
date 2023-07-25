@@ -30,6 +30,8 @@ regarding the mode, use "chromatic" mode with the sound files in _chromatic;
 use "perc" mode with a percussive sound sample.  store the sound samples in _wav and _aif.
 use a full path for the sound file name.
 
+use a 2-track sound editor like Sound Studio or Audacity to play the output sound files.
+
 call GST.m for a full bandwidth signal analysis
 
 call KST.m to analyse the bandwidth of the ff's of the piano
