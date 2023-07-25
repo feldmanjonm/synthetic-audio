@@ -27,7 +27,7 @@ then call a "song file":
     etc.
 
 regarding the mode, use "chromatic" mode with the sound files in _chromatic;
-use "perc" mode for any sound file.  perc mode is intended though for percussive sounds such as a snare drum hit.
+use "perc" mode with a percussive sound sample.
 
 call GST.m for a full bandwidth signal analysis
 
