@@ -30,8 +30,6 @@ regarding the mode, use "chromatic" mode with the sound files in _chromatic;
 use "perc" mode with a percussive sound sample.  store the sound samples in _wav and _aif.
 use a full path for the sound file name.
 
-use a 2-track sound editor like Sound Studio or Audacity to play the output sound files.
-
 call GST.m for a full bandwidth signal analysis
 
 call KST.m to analyse the bandwidth of the ff's of the piano
@@ -39,7 +37,8 @@ call KST.m to analyse the bandwidth of the ff's of the piano
 
 For a stereo resynth, call KST_stereo.m or KST_realstereo.m
 
-
 Note that in order to run this software, Matlab is required along with the signal processing toolbox.  Note also that the standard sample rate for this project is 48 kHz.  Other sample rates should work but have not been thoroughly tested.
+
+Also use a 2-track sound editor like Sound Studio or Audacity to play the output sound files.
 
 
