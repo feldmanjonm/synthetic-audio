@@ -27,7 +27,7 @@ then call a "song file":
     etc.
 
 regarding the mode, use "chromatic" mode with the sound files in _chromatic;
-use "perc" mode with a percussive sound sample.
+use "perc" mode with a percussive sound sample.  store the sound samples in _wav and _aif.
 
 call GST.m for a full bandwidth signal analysis
 
