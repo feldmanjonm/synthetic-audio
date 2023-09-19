@@ -41,7 +41,7 @@ Note that in order to run this software, Matlab is required along with the signa
 
 Also use a 2-track sound editor like Sound Studio or Audacity to view the audio and to play the output sound files.
 
-To create a chromatic input file, create a midi file with quarter notes that covers the entire range of the piano from low to high. Set the tempo to 60 bpm.  Call this file chromatic.mid. Use this midi file in Logic or Sibelius with any sound patch.
+To create a chromatic input file, create a midi file with quarter notes that covers the entire range of the piano from low to high. Set the tempo to 60 bpm.  Call this file chromatic.mid. Use this midi file in Logic or Sibelius with any sound patch to create new files for _chromatic.
 
 When creating a song file, the key thing to remember is that the left channel and the right channel must have the same length.
 
