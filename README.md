@@ -25,9 +25,9 @@ then call a "song file":
     scales.m
     chameleon.m
     blowininthewind.m
+    bfgroove.m
     pharawei.m
     african.m
-    bfgroove.m
     etc.
 
 Use a 2-track sound editor like Sound Studio or Audacity to view the audio and to play the output sound files.
