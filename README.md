@@ -52,7 +52,7 @@ For a stereo resynth, call KST_stereo.m or KST_realstereo.m
 
 Note that you will have to supply your own .wav file for input.  Not every stereo re-synth sounds equally good.  I like the way Lay Down Sally by Eric Clapton sounds.
 
-Note that the resynth can be configured in multiple ways, to use sine waves, triangle waves, square waves, and noise generators.
+Note that the resynth can be configured in multiple ways, to use sine waves, triangle waves, square waves, sawtooth waves, and noise generators.
 
 
 GENERAL NOTES
